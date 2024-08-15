@@ -1,0 +1,6 @@
+git init 
+git add . 
+git commit -m "Encriptador de Texto"
+git remote add origin https://github.com/sebas19956/Encriptador_de_Texto.git
+git push   origin master
+
